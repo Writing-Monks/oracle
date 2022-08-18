@@ -1,0 +1,10 @@
+*.json
+*.env
+*Dockerfile
+*Pipfile
+.idea
+__pycache__
+user_auth
+operator
+contracts
+secret.py

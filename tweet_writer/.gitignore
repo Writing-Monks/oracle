@@ -1,0 +1,6 @@
+__pycache__/
+package/
+*.zip
+.env
+secret.py
+writing-monks-firebase-adminsdk-xe5wr-c1facf3aa1.json
